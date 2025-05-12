@@ -22,7 +22,7 @@ Maar het kan ook anders. Sinds 2015 is de Nederlandse auteurswet aangepast met e
 
 ## Goudmijn  
 
-Medewerkers van onze bibliotheek heben in de afgelopen jaren op eigen verantwoordelijkheid zo goed als mogelijk pdf's van publicaties van RCE collega's weten te verzamelen en hun titels te beschrijven in het Axiell catalogus systeem van de RCE. Het betreft hier naar schatting enkele duizenden pdf's. Daarmee heeft de Rijksdienst een potentiële goudmijn in handen. Het open access aanbieden van onze publikaties én metadata zou een geweldig visitiekaartje zijn naar de wereld van academische erfgoed onderzoekers. Maar ook zou het een gapend gat vullen in onze kennisinfrastruktuur. Dit zou betekenen dat wetenschappelijke inzichten, die door onze huidige en voormalige collega's met grote inspanning zijn verkregen, niet langer vergeten raken zoals nu het geval is, maar efficient kunnen worden hergebruikt om ons bouwwerk van erfgoedkennis te versterken.    
+Medewerkers van onze bibliotheek heben in de afgelopen decennia veelal op eigen initiatief zo goed als mogelijk pdf's van publicaties van RCE collega's weten te verzamelen en hun titels te beschrijven in het Axiell catalogus systeem van de RCE. Het betreft hier naar schatting enkele duizenden pdf's. Daarmee heeft de Rijksdienst een potentiële goudmijn in handen. Het open access aanbieden van onze publikaties én metadata zou een geweldig visitiekaartje zijn naar de wereld van academische erfgoed onderzoekers. Maar ook zou het een gapend gat vullen in onze kennisinfrastruktuur. Dit zou betekenen dat wetenschappelijke inzichten, die door onze huidige en voormalige collega's met grote inspanning zijn verkregen, niet langer vergeten raken zoals nu het geval is, maar efficient kunnen worden hergebruikt om ons bouwwerk van erfgoedkennis te versterken.    
 
 
 ## Pilot 
@@ -31,7 +31,11 @@ In de afgelopen maanden is een beperkte pilot uitgevoerd waarin een het gelukt i
 
 1) Pdf's van publicaties worden tot nu toe door de bibliotheek opgeslagen in het document management systeem Proza. Achteraf beschouwd is de keuze voor Proza als file opslag problematisch te noemen. Onze Proza helpdesks konden niet aangeven hoe bulk export kon worden gerealiseerd.  Slechts dankzij de welwillende hulp van een toevallig beschikbare externe techneut is de export deel van de pdf's gerealiseerd. 
 
-2) In onze pilot is gebruik gemaakt van de bestaande web catalogus[^CAT]. We stellen vast dat deze oplossing, die voortbouwt op Axiell, om meerdere redenen niet ideaal zal zijn. We hebben beperkte kennis en controle over deze commerciële database. Onze catalogus is niet doorzoekbaar voor zoekmachines zoals Google Scholar. De webpagina’s bevatten geen metadata die eenvoudig kunnen worden ingelezen in referentiemanagers die door onderzoekers worden gebruikt. Het beheer van grote hoeveelheden pdf’s langs deze weg wordt wellicht moeilijk en tijdrovend.     
+2) In onze pilot is gebruik gemaakt van de bestaande web catalogus[^CAT]. We stellen vast dat deze oplossing, die voortbouwt op Axiell, om meerdere redenen niet ideaal zal zijn. We hebben beperkte kennis en controle over deze commerciële database. Onze catalogus is niet doorzoekbaar voor zoekmachines zoals Google Scholar. De webpagina’s bevatten geen metadata die eenvoudig kunnen worden ingelezen in referentiemanagers die door onderzoekers worden gebruikt. Het beheer van grote hoeveelheden pdf’s langs deze weg wordt wellicht moeilijk en tijdrovend.  
+
+## Advies 
+
+Nog te bespreken...
 
 
 [^COA]: https://www.coalition-s.org/
