@@ -17,7 +17,7 @@ Maar hoe vrij toegankelijk zijn onze wetenschappelijke publicaties dan nu anno 2
 
 ## Auteurswet 
 
-Maar het kan ook anders. Sinds 2015 is de Nederlandse auteurswet aangepast met een Open Access paragraaf. Hiermee hebben auteurs van wetenschappelijke artikelen het recht om, na een redelijke termijn, deze via eigen kanalen zoals een website ter beschikking te stellen.[^WET] Daarmee beschikken we nu over een stevig juridisch fundament voor het Open Access maken van onze publicaties. Een tweede cruciale ontwikkeling in de wereld van Open Science is de ontwikkeling van Open Repository software[^REPO]. Met server applicaties zoals DSpace[^DSPACE] en InvenioRDM kunnen organisaties niet alleen hun eigen publicaties open access beschikbaar stellen, maar ook vindbaar maken voor zoekmachines zoals Google Scholar waarbij ook de de bibliografische metadata efficient  door onderzoekers kunnen worden geïmporteerd in eigen referentiemanagers[^REF].     
+Maar het kan ook anders. Sinds 2015 is de Nederlandse auteurswet aangepast met een Open Access paragraaf. Hiermee hebben auteurs van wetenschappelijke artikelen het recht om, na een redelijke termijn, deze via eigen kanalen zoals een website ter beschikking te stellen.[^WET] Daarmee beschikken we nu over een stevig juridisch fundament voor het Open Access maken van onze publicaties. Een tweede cruciale ontwikkeling in de wereld van Open Science is de ontwikkeling van Open Repository software[^REPO]. Met server applicaties zoals DSpace[^DSPACE] en InvenioRDM[^INV] kunnen organisaties niet alleen hun eigen publicaties open access beschikbaar stellen, maar ook vindbaar maken voor zoekmachines zoals Google Scholar waarbij ook de de bibliografische metadata efficient  door onderzoekers kunnen worden geïmporteerd in eigen referentiemanagers[^REF].     
 
 
 ## Goudmijn  
@@ -51,6 +51,8 @@ Nog te bespreken...
 [^REPO]: https://www.openrepositories.org/ 
 
 [^DSPACE]: https://dspace.org 
+
+[^INV]: https://inveniosoftware.org/
 
 [^REF]: https://en.wikipedia.org/wiki/Reference_management_software
 
