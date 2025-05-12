@@ -17,7 +17,7 @@ Maar hoe vrij toegankelijk zijn onze wetenschappelijke publicaties dan nu anno 2
 
 ## Auteurswet 
 
-Maar het kan ook anders. Sinds 2015 is de Nederlandse auteurswet aangepast met een Open Access paragraaf. Hiermee hebben auteurs van wetenschappelijke artikelen het recht om, na een redelijke termijn, deze via eigen kanalen zoals een website ter beschikking te stellen.[^WET] Daarmee beschikken we nu over een stevig juridisch fundament voor het Open Access maken van onze publicaties. Een tweede cruciale ontwikkeling in de wereld van Open Science is de ontwikkeling van Open Repository software[^REPO]. Met server applicaties zoals DSpace[^DSPCACE] en InvenioRDM kunnen organisaties niet alleen hun eigen publicaties open access beschikbaar stellen, maar ook vindbaar maken voor zoekmachines zoals Google Scholar waarbij ook de de bibliografische metadata efficient  door onderzoekers kunnen worden geïmporteerd in eigen referentiemanagers[^REF].     
+Maar het kan ook anders. Sinds 2015 is de Nederlandse auteurswet aangepast met een Open Access paragraaf. Hiermee hebben auteurs van wetenschappelijke artikelen het recht om, na een redelijke termijn, deze via eigen kanalen zoals een website ter beschikking te stellen.[^WET] Daarmee beschikken we nu over een stevig juridisch fundament voor het Open Access maken van onze publicaties. Een tweede cruciale ontwikkeling in de wereld van Open Science is de ontwikkeling van Open Repository software[^REPO]. Met server applicaties zoals DSpace[^DSPACE] en InvenioRDM kunnen organisaties niet alleen hun eigen publicaties open access beschikbaar stellen, maar ook vindbaar maken voor zoekmachines zoals Google Scholar waarbij ook de de bibliografische metadata efficient  door onderzoekers kunnen worden geïmporteerd in eigen referentiemanagers[^REF].     
 
 
 ## Goudmijn  
@@ -31,7 +31,7 @@ In de afgelopen maanden is een beperkte pilot uitgevoerd waarin een het gelukt i
 
 1) Pdf's van publicaties worden tot nu toe door de bibliotheek opgeslagen in het document management systeem Proza. Achteraf beschouwd is de keuze voor Proza als file opslag problematisch te noemen. Onze Proza helpdesks konden niet aangeven hoe bulk export kon worden gerealiseerd.  Slechts dankzij de welwillende hulp van een toevallig beschikbare externe techneut is de export deel van de pdf's gerealiseerd. 
 
-2) In onze pilot is gebruik gemaakt van de bestaande web catalogus[^CAT]. We stellen vast dat deze oplossing, die voortbouwt op Axiell, om meerdere redenen niet ideaal zal zijn. We hebben beperkte kennis en controle over deze commerciële database. Onze catalogus is niet doorzoekbaar voor zoekmachines zoals Google Scholar. De webpagina’s bevatten geen metadata die eenvoudig kunnen worden ingelezen in referentiemanagers die door onderzoekers worden gebruikt. Het beheer van grote hoeveelheden pdf’s langs deze weg wordt wellicht moeilijk en tijdrovend.  
+2) In onze pilot is gebruik gemaakt van de bestaande web catalogus[^CAT]. We stellen vast dat deze oplossing, op basis van Axiell niet schaalbaar is. We hebben beperkte kennis en controle over deze commerciële database. Onze catalogus is niet doorzoekbaar voor zoekmachines zoals Google Scholar. De webpagina’s bevatten geen metadata die eenvoudig kunnen worden ingelezen in referentiemanagers die door onderzoekers worden gebruikt. Het beheer van grote hoeveelheden pdf’s langs deze weg wordt wellicht moeilijk en tijdrovend.  
 
 ## Advies 
 
